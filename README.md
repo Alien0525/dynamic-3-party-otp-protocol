@@ -1,4 +1,4 @@
-# Dynamic Multi-Party One-Time Pad Protocol
+# Dynamic 3-Party One-Time Pad Protocol
 
 This repository implements **dynamic pad reallocation algorithms** for Multi-Party One-Time Pad (OTP) protocols. The system is designed to secure communication in asynchronous networks while **satisfying perfect secrecy**.
 
